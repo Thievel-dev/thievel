@@ -32,8 +32,8 @@ index.html
 
 </body>
 </html>
-style.css
-* {
+<style class="css">
+     {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -118,7 +118,10 @@ button:hover {
     max-width: 700px;
     margin: 0 auto;
 }
-script.js
-function startProject() {
+</style>
+
+<script class="js">
+    function startProject() {
     alert("Bem-vindo ao Thievel 🚀");
 }
+</script>
